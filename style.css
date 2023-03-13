@@ -7,12 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(
-    90deg,
-    rgb(162, 235, 162) 0%,
-    rgb(144, 238, 144) 80%,
-    rgb(102, 216, 102) 100%
-  );
+  background: url("./5f6e93d250a6d04f4eae9f02_Backgrounds-WFU-thumbnail-\(size\).jpg");
 }
 
 .calculator {
